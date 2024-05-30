@@ -43,6 +43,11 @@ In this dynamic and rapidly evolving field, I firmly embrace the value of contin
 
 ### 🤝 Let's Connect
 I actively seek out new challenges and collaborative opportunities. Whether you require a Frontend Developer to bring your vision to life or are looking for contributors to your open-source project, feel free to reach out to me.
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbelCutz&show_icons=true&theme=radical)
+
 <div id="badges" align="center">
   <br><br>
   <a href="https://www.linkedin.com/in/abel-cutz-a542ab8b/">
