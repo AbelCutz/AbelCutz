@@ -36,7 +36,7 @@ In this dynamic and rapidly evolving field, I firmly embrace the value of contin
 I actively seek out new challenges and collaborative opportunities. Whether you require a Frontend Developer to bring your vision to life or are looking for contributors to your open-source project, feel free to reach out to me.
 <div id="badges" align="center">
   <br><br>
-  <a href="www.linkedin.com/in/abel-cutz-a542ab8b">
+  <a href="[www.linkedin.com/in/abel-cutz-a542ab8b](https://www.linkedin.com/in/abel-cutz-a542ab8b/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
   <a href="mailto:abel125.cutz@gmail.com">
