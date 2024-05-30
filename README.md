@@ -30,7 +30,7 @@ My toolkit includes, but is not limited to:
 </div>
 <br><br><br>
 
-# 🌱 Continuous Learning
+### 🌱 Continuous Learning
 
 
 In this dynamic and rapidly evolving field, I firmly embrace the value of continuous learning and adaptation. Regularly, I invest time in exploring cutting-edge technologies, engaging in coding challenges. This unwavering commitment to growth ensures that I remain well-versed in the latest knowledge and industry best practices, enabling me to tackle any project with confidence.
