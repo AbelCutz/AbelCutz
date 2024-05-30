@@ -34,7 +34,7 @@ My toolkit includes, but is not limited to:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
 </div>
-<br><br><br>
+<br><br>
 
 ### 📊 GitHub Stats
 
