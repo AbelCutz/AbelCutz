@@ -39,7 +39,7 @@ I actively seek out new challenges and collaborative opportunities. Whether you 
   <a href="www.linkedin.com/in/abel-cutz-a542ab8b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="mailto:abel125.cutz@gmail.com>
+  <a href="mailto:abel125.cutz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
 </div>
