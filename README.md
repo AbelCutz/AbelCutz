@@ -29,7 +29,8 @@ My toolkit includes, but is not limited to:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
 </div>
 <br><br><br>
-### 🌱 Continuous Learning
+
+# 🌱 Continuous Learning
 
 
 In this dynamic and rapidly evolving field, I firmly embrace the value of continuous learning and adaptation. Regularly, I invest time in exploring cutting-edge technologies, engaging in coding challenges. This unwavering commitment to growth ensures that I remain well-versed in the latest knowledge and industry best practices, enabling me to tackle any project with confidence.
