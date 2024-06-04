@@ -2,7 +2,7 @@
 # Hello  there !👋 I’m Abel Cutz a software developer.. 
 
 ### About Me
-I am a  Frontend Web Developer and dedicated to enhancing the digital landscape with unique and impactful solutions. I thrive on transforming static designs and ideas into dynamic, user-friendly experiences, all while staying updated to the latest technologies.
+I am a full stack Developer and dedicated to enhancing the digital landscape with unique and impactful solutions. I thrive on transforming static designs and ideas into dynamic, user-friendly experiences, all while staying updated to the latest technologies.
 
 <br><br>
 ## 🛠️ Technologies & Skills
