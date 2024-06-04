@@ -1,5 +1,7 @@
 
-# Hello  there !👋 I’m Abel Cutz a software developer.. 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abel+Cutz;+A+Full-stack+Developer!" />
+</h1>
 
 ### About Me
 I am a full stack Developer and dedicated to enhancing the digital landscape with unique and impactful solutions. I thrive on transforming static designs and ideas into dynamic, user-friendly experiences, all while staying updated to the latest technologies.
